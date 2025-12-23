@@ -1,1 +1,2 @@
 # foodApp
+This is a food app designed to help users discover meals, browse recipes, and manage their food choices in one place. The app focuses on a simple, user-friendly interface and quick access to food information, making it easy to find ideas, save favorites, and plan meals efficiently.
